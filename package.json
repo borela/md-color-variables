@@ -1,0 +1,28 @@
+{
+  "name": "md-color-variables",
+  "version": "1.0.0",
+  "description": "Lowercase, no prefix/suffix material design color variables.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borela/md-color-variables.git"
+  },
+  "keywords": [
+    "color",
+    "design",
+    "material",
+    "no prefix",
+    "no suffix",
+    "palette",
+    "variables"
+  ],
+  "author": {
+    "name": "Alexandre Borela",
+    "email": "alexandre@borela.tech",
+    "url": "http://www.borela.tech"
+  },
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/borela/md-color-variables/issues"
+  },
+  "homepage": "https://github.com/borela/md-color-variables#readme"
+}
