@@ -1,6 +1,6 @@
 {
   "name": "md-color-variables",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Lowercase, no prefix/suffix material design color variables.",
   "repository": {
     "type": "git",
