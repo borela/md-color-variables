@@ -4,7 +4,7 @@
   "description": "Lowercase, no prefix/suffix material design color variables.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/borela/md-color-variables.git"
+    "url": "git+https://github.com/borela/md-sass-color-variables.git"
   },
   "keywords": [
     "color",
@@ -24,7 +24,7 @@
   },
   "license": "Apache",
   "bugs": {
-    "url": "https://github.com/borela/md-color-variables/issues"
+    "url": "https://github.com/borela/md-sass-color-variables/issues"
   },
-  "homepage": "https://github.com/borela/md-color-variables#readme"
+  "homepage": "https://github.com/borela/md-sass-color-variables#readme"
 }
