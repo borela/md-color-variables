@@ -1,6 +1,6 @@
 {
   "name": "md-sass-color-variables",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Lowercase, no prefix/suffix material design color variables.",
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
     "email": "alexandre@borela.tech",
     "url": "http://www.borela.tech"
   },
-  "license": "Apache",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/borela/md-sass-color-variables/issues"
   },
