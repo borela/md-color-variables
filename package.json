@@ -2,10 +2,16 @@
   "name": "md-sass-color-variables",
   "version": "1.4.1",
   "description": "Lowercase, no prefix/suffix material design color variables.",
+  "license": "Apache-2.0",
+  "main": "_palette.scss",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/borela/md-sass-color-variables.git"
   },
+  "bugs": {
+    "url": "https://github.com/borela/md-sass-color-variables/issues"
+  },
+  "homepage": "https://github.com/borela/md-sass-color-variables#readme",
   "keywords": [
     "color",
     "design",
@@ -21,11 +27,5 @@
     "name": "Alexandre Borela",
     "email": "alexandre@borela.tech",
     "url": "http://www.borela.tech"
-  },
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/borela/md-sass-color-variables/issues"
-  },
-  "homepage": "https://github.com/borela/md-sass-color-variables#readme",
-  "main": "_palette.scss"
+  }
 }
