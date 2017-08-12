@@ -1,6 +1,6 @@
 {
   "name": "md-sass-color-variables",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Lowercase, no prefix/suffix material design color variables.",
   "license": "Apache-2.0",
   "main": "_palette.scss",
